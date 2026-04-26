@@ -3,7 +3,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LokeshReddie456&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://www.linkedin.com/in/lokesh-kumar-reddy-mandireddy-a1b..." target="_blank">
+  <a href="https://www.linkedin.com/in/lokesh-kumar-reddy-mandireddy-a1b0a122a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
 </p>
