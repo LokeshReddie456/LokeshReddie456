@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh Kumar Reddy</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps</h3>
+<h3 align="center">Software Engineer | Python • FastAPI • AWS • Terraform • Cloud Infrastructure</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LokeshReddie456&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -12,10 +12,12 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 DevOps Engineer at **HCLTech** with **3.7 years** of experience
-- ☁️ Specialist in **AWS cloud-native ecosystems** and **Infrastructure as Code**
-- 🚀 Passionate about **GitOps**, **Kubernetes**, and **SRE principles**
-- 📉 Reduced deployment lead times by **40%** and achieved **99.9%** environment consistency
+- 🔭 Software Engineer at **HCLTech** with **4 years** of experience building scalable backend services and cloud infrastructure
+- 🐍 Backend specialist in **Python (FastAPI)**, event-driven pipelines, and relational schema optimization
+- ☁️ Designing and managing **AWS cloud-native architectures** using **Terraform (IaC)**
+- 🐳 Hands-on with container orchestration (**Kubernetes / EKS**), **GitOps**, and **CI/CD** automation
+- 🤖 Exploring and implementing **LLM services**, **RAG pipelines**, and **vector databases (pgvector)**
+- 📉 Reduced deployment cycles by **60%** and API query latency by **35%**
 - 📫 Reach me at: **lokeshreddy6706@gmail.com**
 - 📍 Chennai, India
 
@@ -23,10 +25,17 @@
 
 ### 🛠️ Tech Stack
 
+#### 💻 Backend & Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 #### ☁️ Cloud & IaC
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### 🐳 Containers & Orchestration
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -34,19 +43,11 @@
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 
-#### ⚙️ CI/CD
+#### ⚙️ CI/CD & Observability
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 📊 Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white)
-
-#### 💻 Scripting & OS
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
